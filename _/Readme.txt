@@ -1,0 +1,1 @@
+There is no code in chapter 1,2 and 3. These chapters deal with introduction of Android SDK, Creating project in Android Studio and so on.   
